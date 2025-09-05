@@ -31,4 +31,5 @@ Trabajo en [Refineria Web](https://refineria.es), donde ayudamos a empresas a po
 📫 **Puedes encontrarme en:**  
 - 🌐 [daniellucia.es](https://daniellucia.es)  
 - 🐦 [X (Twitter)](https://x.com/daniellucia)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielluciagarcia/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielluciagarcia/)
+- 📝 [Perfil en WordPress.org](https://profiles.wordpress.org/daniellucia/)  
