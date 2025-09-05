@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Daniel Lúcia, con acento en la U pero sin tilde :)
 
-<!--
-**daniellucia/daniellucia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web con casi 20 años de experiencia creando soluciones a medida en **PHP**, **MySQL**, **WordPress** y **PrestaShop**.  
+🚀 Especialista en **WordPress**: desarrollo de temas y plugins desde cero, optimización de rendimiento y buenas prácticas de seguridad.  
+🏗️ Experiencia en proyectos personalizados, integraciones con APIs y herramientas modernas de desarrollo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Actualmente
+Trabajo en [Refineria Web](https://refineria.es), donde ayudamos a empresas a potenciar su presencia digital con proyectos web robustos, escalables y creativos.
+
+---
+
+### 🔧 Tecnologías y herramientas
+- PHP, MySQL, JavaScript
+- WordPress (temas y plugins)
+- WooCommerce
+- PrestaShop
+- Laravel
+- Git & GitHub
+
+---
+
+### 📌 Intereses
+- Publicar plugins sencillos y útiles para la comunidad de WordPress  
+- Seguir aprendiendo nuevas tecnologías web  
+- Colaborar en proyectos open source  
+
+---
+
+📫 **Puedes encontrarme en:**  
+🌐 [daniellucia.es](https://daniellucia.es)  
